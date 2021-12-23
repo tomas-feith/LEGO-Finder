@@ -5,6 +5,7 @@ Created on Sat Dec  4 10:40:21 2021
 @author: tsfei
 
 THIS SCRIPT ONLY WORKS IF YOU'RE AT THE SRC OF **OUR** GITHUB REPO
+It is meant to be used a script to setup yolo on a local machine
 
 For an explanation as to what we're doing here see
 https://github.com/AlexeyAB/darknet#how-to-train-to-detect-your-custom-objects
