@@ -122,6 +122,6 @@ In conclusion, this workflow allowed us to generate synthetic images with the fo
     └─── yolo_setup.py: generate the necessary config files for yolo to work. It is very customizable.
 ├─── train_files_examples: some examples of different files needed for the training. This is the only data file that is not gitignored.
 ├─── yolo_v4: where the yolo_v4 should be compiled. gitignore'd in the repo, needs to be filled.
-├─── report.pdf: project report.
+├─── report_LEGO.pdf: project report.
 └─── README.md : [ERROR: Infinite loop] :)
 </pre>
